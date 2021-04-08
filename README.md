@@ -1,4 +1,4 @@
-# FE Tech Test
+# FullStack Tech Test
 
 ### The Challenge
 We would like you to build a “mini app” using the https://rickandmortyapi.com/  REST API, (please do not use the JavaScript library available). The app should consist of a “Character Listing” page and a single “Character Information” page. The challenge comes in two parts:
